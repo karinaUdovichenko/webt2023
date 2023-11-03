@@ -265,3 +265,20 @@ footer
 	color: #000000;
 	text-shadow: none;
   }
+
+  .exampleone {
+	background-color: rgb(0, 0, 0);
+	color: white;
+	font-size: 20px;
+	margin-top: 15px;
+
+}
+.exampleone1 {
+	background-color: rgb(255, 255, 255);
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+	margin-top: 15px;
+
+}
+
+
