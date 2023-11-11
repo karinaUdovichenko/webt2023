@@ -281,4 +281,34 @@ footer
 
 }
 
+#wrapper {
+	display: flex;
+	margin-top: 20px;
+  }
+   
+  #left {
+	text-align: center;
+	border: 3px solid black;
+	height: 130px;
+	width: 33%;
+  }
+  #center {
+	width: 33%;
+	text-align: center;
+	border: 3px solid black;
+  }
+   
+  #right {
+	width: 30%;
+	text-align: center;
+	border: 3px solid black;
+  }
+
+h6 {
+	text-align: left;
+	font-size: 25px;
+}
+#form {
+	top: 20px;
+}
 
